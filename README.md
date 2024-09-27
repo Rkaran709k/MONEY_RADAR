@@ -12,7 +12,8 @@ npx shadcn-ui@latest init
 also watch this video to how to work with git i found it helpful :
 https://www.youtube.com/watch?v=mJ-qvsxPHpY&t=647s
 
-so far this has been done video: 32:30 ;
+so far this has been done video: 39:30 ;
+Signup page not hsowing up -working on it
 
 To change color :29.12
 First, run the development server:
